@@ -27,3 +27,4 @@ A peer-to-peer lending services company wants to use machine learning to predict
 #### Precision:it is low for high-risk and is high for low-risk loans
 #### Recall:high risk is 0.91 and for low risk is 0.94
 ## Summary
+The best machine learning model is the closest to 1. This means, the Easy Ensemble Adaboost Classifer had the highest balanced accuracy with its .93 compared to the other ones. Also, it provides a highest score for all high risk loans.  
